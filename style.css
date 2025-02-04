@@ -46,6 +46,10 @@ p {
     margin: .2em auto
 }
 
+p.project{
+	font-weight: 400;
+}
+
 hr {
     border: none;
     background-color: lightgray;
